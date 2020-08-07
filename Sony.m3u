@@ -1,0 +1,209 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="http://195.154.221.171/picons/sonyuk.png" group-title="United Kingdom", Sony Channel +1 UK
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/1943.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Malaysia", SONY ONE HD MY
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/18558.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Malaysia", SONY SAB APAC Plus MY
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/18545.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Malaysia", SONY SETMAX APAC Plus MY
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/18544.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Malaysia", SONY TV APAC Plus MY
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/18543.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Sony Six HD IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/2820.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Sony Pix IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/2821.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Sony Pal IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/2822.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Sony Sab HD IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/4742.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Sony UK IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/4760.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Sony Max HD UK IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/5984.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Sony Sab UK IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/5983.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Sony TV Asia UK IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/5982.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Sony TV UK IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/6012.m3u8
+
+#EXTINF:-1 tvg-logo="http://195.154.221.171/picons/sonymix.png" group-title="India", Sony MIX IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/1352.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Sony TV HD IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/1351.m3u8
+
+#EXTINF:-1 tvg-logo="http://195.154.221.171/picons/sonysabhd.png" group-title="India", Sony SAB FHD IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/15880.m3u8
+
+#EXTINF:-1 tvg-logo="http://195.154.221.171/picons/sonyentertainment.png" group-title="India", Sony HD IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/15884.m3u8
+
+#EXTINF:-1 tvg-logo="http://195.154.221.171/picons/sonymaxhd.png" group-title="India", Sony Max HD IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/15885.m3u8
+
+#EXTINF:-1 tvg-logo="http://195.154.221.171/picons/sonymax2.png" group-title="India", Sony MAX 2 IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/16032.m3u8
+
+#EXTINF:-1 tvg-logo="http://195.154.221.171/picons/sonymax.png" group-title="India", Sony MAX IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/16036.m3u8
+
+#EXTINF:-1 tvg-logo="http://195.154.221.171/picons/sonysab.png" group-title="India", Sony SAB IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/16038.m3u8
+
+#EXTINF:-1 tvg-logo="http://195.154.221.171/picons/sonyten1hd.png" group-title="India", Sony Ten 1 FHD IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/16041.m3u8
+
+#EXTINF:-1 tvg-logo="http://195.154.221.171/picons/sonytv.png" group-title="India", Sony TV IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/16037.m3u8
+
+#EXTINF:-1 tvg-logo="http://195.154.221.171/picons/sonywah.png" group-title="India", Sony WAH IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/16039.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", Sony YAY IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/24717.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", SONY SIX HD VIP IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/43597.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", SONY TEN2 HD VIP IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/43595.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", SONY SAB FHD VIP IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/43620.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", SONY TEN1 HD VIP IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/43596.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Thailand", SONY ASIA HD TH
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/8623.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Brazil", SONY FHD BR
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/80071.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Brazil", Sony SD BR
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/81157.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Brazil", Sony HD BR
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/81158.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hungary", SONY MOVIE HU
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/79206.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hungary", Sony Max HU
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/79207.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Russian", SONY TURBO RU
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/27255.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Russian", SONY ТВ FHD RU
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/27256.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Russian", Sony Sci-Fi RU
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/4793.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Indonesia", Sony One ID
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/62190.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Thailand", Sony Six Sport TH
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/8682.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="United Kingdom VIP", Sony Channel VIP UK
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/10654.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="United Kingdom VIP", Sony Max VIP UK
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/10652.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="United Kingdom VIP", Sony Movie Channel VIP UK
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/10651.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="United Kingdom VIP", Sony Movies 1 VIP UK
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/10653.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="United Kingdom VIP", Sony Movies VIP UK
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/10650.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latin America", CINE SONY FHD VIP Latin America
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/11302.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latin America", SONY FHD VIP Latin America
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/11331.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latin America", SONY VIP Latin America
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/11690.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Turkey", SONY TV VIP TR
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/12589.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India VIP", SONY AATH Bangla VIP IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/17778.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India VIP", SONY EARTH HD VIP IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/17895.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India VIP", SONY MAX 2 VIP IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/17824.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India VIP", SONY MIX VIP IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/17823.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India VIP", SONY PAL VIP IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/17822.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India VIP", SONY PIX FHD UK VIP IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/17927.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India VIP", SONY PIX HD UK VIP IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/17931.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India VIP", SONY SAB HD VIP IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/17894.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India VIP", SONY SETMAX HD VIP IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/17886.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India VIP", SONY TV FHD VIP IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/17857.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India VIP", SONY TV HD VIP IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/17890.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India VIP", Sony Aath FHD Bangla VIP IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/17798.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India VIP", Sony Aath HD Bangla VIP IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/17795.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India VIP", Sony Entertainment UK VIP IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/18031.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India VIP", Sony Max VIP IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/17869.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India VIP", Sony Ten 1 UK VIP IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/17923.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India VIP", Sony Ten 2 UK VIP IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/17922.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India VIP", Sony Ten 3 HD VIP IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/17921.m3u8
+
