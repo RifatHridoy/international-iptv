@@ -1,0 +1,44 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="http://195.154.221.171/picons/mutvhduk.png" group-title="United Kingdom", MUTV HD UK
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/1810.m3u8
+
+#EXTINF:-1 tvg-logo="http://195.154.221.171/picons/utvuk.png" group-title="United Kingdom", UTV HD UK
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/1959.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Romania", ZUTV FHD RO
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/74079.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", UTV Bindas IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/2803.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India", UTV Movies IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/2795.m3u8
+
+#EXTINF:-1 tvg-logo="http://195.154.221.171/picons/utvuk.png" group-title="United Kingdom", UTV HD UK
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/1959.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="United Kingdom VIP", MUTV FHD VIP UK
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/10854.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="United Kingdom VIP", MUTV HD VIP UK
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/10803.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="United Kingdom VIP", TruTV VIP UK
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/10639.m3u8
+
+#EXTINF:-1 tvg-logo="http://195.154.221.171/picons/utvhduk.png" group-title="United Kingdom", UTV FHD UK
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/1988.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India VIP", UTV Bindass VIP IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/17986.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="India VIP", UTV Movies VIP IN
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/17985.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Singapore", MUTV HD SG
+http://jaze.xyz:8080/live/justforfun/fYvk3cQzJ9/29516.m3u8
+
